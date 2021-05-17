@@ -1,0 +1,22 @@
+.profile-block {
+  background-color: #f5f5f5;
+  width: 660px;
+  padding: 30px;
+  margin: auto;
+  border: 1px solid #e3e3e3;
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 100%;
+  background-color: #b6b6b6;
+}
+
+.profile-email span,
+.profile-address span,
+.profile-phone span {
+  font-weight: 500;
+}
